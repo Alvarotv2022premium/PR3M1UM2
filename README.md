@@ -129,10 +129,6 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45806
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45713
 
 
-#EXTINF:-1,  DISCOVERY H&H
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45716
-
-
 #EXTINF:-1,  DISCOVERY WORLD
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45725
 
